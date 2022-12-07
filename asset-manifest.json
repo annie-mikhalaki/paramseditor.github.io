@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/params-editor-ip/static/css/main.4ac13fc2.css",
-    "main.js": "/params-editor-ip/static/js/main.a4c48b11.js",
-    "index.html": "/params-editor-ip/index.html",
-    "main.4ac13fc2.css.map": "/params-editor-ip/static/css/main.4ac13fc2.css.map",
-    "main.a4c48b11.js.map": "/params-editor-ip/static/js/main.a4c48b11.js.map"
+    "main.css": "/paramseditor.github.io/static/css/main.4ac13fc2.css",
+    "main.js": "/paramseditor.github.io/static/js/main.a4c48b11.js",
+    "index.html": "/paramseditor.github.io/index.html",
+    "main.4ac13fc2.css.map": "/paramseditor.github.io/static/css/main.4ac13fc2.css.map",
+    "main.a4c48b11.js.map": "/paramseditor.github.io/static/js/main.a4c48b11.js.map"
   },
   "entrypoints": [
     "static/css/main.4ac13fc2.css",
